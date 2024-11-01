@@ -1,4 +1,5 @@
-Project Overview: Layoffs Data Cleanup and Standardization
+Layoffs Data Cleanup and Standardization
+
 This project focused on preparing a dataset of layoff information for analysis by cleaning, standardizing, and organizing the data for better usability. Key steps included:
 
 Removing Duplicates: Using SQL ROW_NUMBER and PARTITION BY functions, duplicates were identified and removed from the layoffs data to ensure each entry was unique.
